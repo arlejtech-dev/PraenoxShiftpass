@@ -28,6 +28,7 @@ Shift generates and plays sound on the device. An imported Aurum profile is opti
 ## Licence
 
 The free plan includes 10 session starts per rolling seven days. Praenox Shift Unlimited is a one-time lifetime licence, verified offline after activation. Shift and Aurum use separate licences.
+New - user can buy 90 day license
 
 Purchase information and licence help: [praenox.com](https://praenox.com)
 
